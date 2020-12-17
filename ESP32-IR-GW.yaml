@@ -7,7 +7,7 @@ wifi:
   ssid: "wifihome"
   password: "storagegilson"
 
-  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  # Enable fallback hotspot (captive portal) in case wifi connection fails.
   ap:
     ssid: "Esp32Rcgw Fallback Hotspot"
     password: "oMwHOw9tZ7G6"
